@@ -3,6 +3,21 @@
 
 }
 
+.titulo {
+    color: #b95f0a;
+    font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+
+
 nav {
     position: absolute;
     top: 110px;
